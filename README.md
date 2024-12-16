@@ -1,18 +1,17 @@
-
-👋 Hello, I'm Awais Gillani  
-🌍 Geospatial Innovator | Tech Enthusiast | 🗺️ 20+ Years of Expertise in GIS & Spatial Applications Development  
+👋 **Hello, I'm Awais Gillani**  
+🌍 **Geospatial Innovator | Tech Enthusiast** | 🗺️ **20+ Years of Expertise in GIS & Spatial Applications Development**  
 
 ---
 
-🌟 About Me  
+### 🌟 **About Me**  
 📌 With two decades of experience, I specialize in creating cutting-edge **geospatial solutions** that drive impactful decision-making. My work empowers industries like **agriculture**, **urban planning**, and **environmental sustainability**, leveraging advanced technologies and tools.  
 
-🌐 I've proudly collaborated with global organizations, including UN FAO**, private firms, and government agencies, to develop innovative and scalable solutions addressing real-world challenges.  
+🌐 I've proudly collaborated with global organizations, including **UN FAO**, private firms, and government agencies, to develop innovative and scalable solutions addressing real-world challenges.  
 
 ---
 
-🛠️ Tech Stack & Skills  
-💻 **Programming Languages**  
+### 🛠️ **Tech Stack & Skills**  
+#### 💻 **Programming Languages**  
 - 🐍 **Python**: NumPy, Pandas, Matplotlib, GeoPandas, Shapely, Rasterio  
 - 💻 **JavaScript**: Leaflet.js, D3.js, Deck.gl, CesiumJS, Node.js  
 - 📊 **SQL**: PostgreSQL/PostGIS, MySQL  
@@ -65,9 +64,7 @@
 ---
 
 ### 🌐 **Let’s Connect!**  
-📩 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-💼 Portfolio: [Your Portfolio/Website]  
-
+📩 **Email**: awais.shah@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/zhshah33/  
+ 
 ---
-
